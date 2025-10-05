@@ -1,0 +1,14 @@
+requests
+asyncio
+uvicorn
+openai
+python-dotenv
+azure-search-documents==11.6.0b7
+fastapi
+requests
+matplotlib
+chainlit
+flask
+agent-framework # run uv pip install agent-framework --pre 
+tavily-python
+pydantic
